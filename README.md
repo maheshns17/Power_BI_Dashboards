@@ -36,7 +36,7 @@ This project demonstrates strong applied Power BI and analytics capabilities:
 
 
 
-- 🧠 **DAX Measures**: Created calculated measures for Average Salary, Median Salary, Min & Max Salary, Remote Job %, Total Job Count, Experience-Level Salary Analysis.  
+- 🧠 **DAX Measures**: Created calculated measures for Average Salary, Median Salary, Min & Max Salary, Remote Job %, Total Job Count, Experience-Level Salary Analysis. 
 
 - 📈 **Core Visualizations**: Implemented Column, Bar, Line, Area, and Scatter charts to analyze trends and salary distributions.
 
