@@ -88,7 +88,7 @@ Ai Jobs Dashboard:
 ![Overview](Images/Ai_Jobs_Dashboard_Img_1.png)
 
 Job Title Drill Through:
-![Overview](/Images/Ai_Jobs_Dashboard_Img_2.png)
+![Overview](Images/Ai_Jobs_Dashboard_Img_2.png)
 
 
 ---
